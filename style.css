@@ -42,7 +42,7 @@ nav {
 }
 
 .nav-links ul li a {
-    color: rgba(18, 11, 75, 0.89);
+    color: rgba(252, 252, 252, 0.89);
     text-decoration: none;
 }
 
@@ -111,7 +111,7 @@ nav {
 }
 
 .mobile {
-    width: 200px;
+    width: 250px;
     position: absolute;
     top: 50%;
     left: 35%;
@@ -127,18 +127,18 @@ nav {
     text-align: center;
 }
 
-.controls h3 {
+.controls h2 {
     margin: 15px 0;
     color: #fff;
 }
 
 #upBtn {
-    width: 15px;
+    width: 40px;
     cursor: pointer;
 }
 
 #downBtn {
-    width: 15px;
+    width: 40px;
     cursor: pointer;
     transform: rotate(180deg);
 }
